@@ -1,0 +1,38 @@
+.events-container {
+        background-color: #e89059;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100vh;
+}
+
+.events-title {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    color: #702b00;
+    font-size: larger;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.events-img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 50%;
+
+}
+
+.events-whitebox {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 20px;
+}
