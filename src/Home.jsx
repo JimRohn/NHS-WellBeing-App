@@ -12,7 +12,7 @@ function Home() {
     <div className="home-page">
       <Navbar/>
       <div className="pic-of-the-day">
-        <p className="home-text">Picture of the day!</p>
+        <p className="home-text">Picture of th day!</p>
         <div className="upload-button">
           <label htmlFor="fileInput" className="custom-label">
             Upload
