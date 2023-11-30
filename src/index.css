@@ -9,3 +9,10 @@ body {
 #root {
   height: 100%;
 }
+
+.background {
+        background-color: #e89059;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100vh;
+}

@@ -59,49 +59,7 @@
   max-width: 400px;
 }
 
-.search-icon {
-  position: absolute;
-  bottom: 3%;
-  right: 6%;
-  color: beige;
-  font-size: xx-large;
-}
 
-@media screen and (min-width: 450px) {
-  .search-icon {
-    right: 50%; /* Keep it centered horizontally */
-    transform: translateX(50%) translateX(180px); /* Move 200px to the right */
-  }
-}
-
-.home-icon {
-  position: absolute;
-  bottom: 3%;
-  left: 6%;
-  color: beige;
-  font-size: xx-large;
-}
-
-@media screen and (min-width: 450px) {
-  .home-icon {
-    left: 50%; /* Keep it centered horizontally */
-    transform: translateX(-50%) translateX(-180px); /* Move 200px to the left */
-  }
-}
-
-.profile-icon {
-  position: absolute;
-  bottom: 3%;
-  right: 25%;
-  color: beige;
-  font-size: xx-large;
-}
-@media screen and (min-width: 450px) {
-  .profile-icon {
-    right: 50%; /* Keep it centered horizontally */
-    transform: translateX(50%) translateX(110px); /* Move 200px to the right */
-  }
-}
 
 .upload-button {
   position: absolute;
